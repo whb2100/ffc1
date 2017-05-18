@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="basic"/>
+	<buildpathentry kind="src" path="classes"/>
+	<buildpathentry kind="src" path="common"/>
+	<buildpathentry kind="src" path="dao"/>
+	<buildpathentry kind="src" path="examples"/>
+	<buildpathentry kind="src" path="project"/>
+	<buildpathentry kind="src" path="sys"/>
+	<buildpathentry kind="src" path="tools/code/dao"/>
+	<buildpathentry kind="src" path="tools/code/tools"/>
+	<buildpathentry kind="src" path="tools/code/utils"/>
+	<buildpathentry kind="src" path="utils"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
